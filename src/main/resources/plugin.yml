@@ -1,0 +1,13 @@
+name: event2
+version: '${project.version}'
+main: pro.mcnot.event2.Main
+depend: [PlaceholderAPI, WorldEdit]
+api-version: '1.20'
+
+commands:
+  mcnotpro:
+    description: Mcnotpro custom command
+    usage: /<command> [args]
+  p:
+    description: Mcnotpro custom command
+    usage: /<command> [args]
